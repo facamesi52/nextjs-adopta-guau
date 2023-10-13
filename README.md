@@ -1,0 +1,1 @@
+# nextjs-adopta-guau
